@@ -340,7 +340,7 @@ trimmed mean
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/spotify-top-10000-analytics-api.git
+git clone https://github.com/harishchaudhary-dev/spotify-top-10000-analytics-api.git
 cd spotify-top-10000-analytics-api
 ```
 
